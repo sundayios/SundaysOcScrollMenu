@@ -1,0 +1,6 @@
+framework module Pods_SundaysOcScrollMenu {
+  umbrella header "Pods-SundaysOcScrollMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}
